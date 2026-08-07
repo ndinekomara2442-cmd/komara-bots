@@ -1,0 +1,60 @@
+{
+  "agency_name": "Komara Agency",
+  "slogan": "Vision. Impact. Excellence.",
+  "whatsapp_number": "+212 701-986219",
+  "email": "komara.agency@gmail.com",
+  "portfolio_url": "https://ndinekomara2442-cmd.github.io/komara-agency-portfolio/",
+  "timezone": "Africa/Conakry",
+  "working_hours": {
+    "start": 8,
+    "end": 22,
+    "timezone": "GMT"
+  },
+  "pricing": {
+    "logo": {
+      "min": 300000,
+      "max": 500000,
+      "currency": "GNF",
+      "delivery": "48h-72h"
+    },
+    "affiche": {
+      "price": 300000,
+      "currency": "GNF",
+      "delivery": "24h-48h"
+    },
+    "retouche": {
+      "price": "sur_discussion",
+      "delivery": "24h-48h"
+    },
+    "bots": {
+      "price": "sur_devis"
+    },
+    "branding": {
+      "price": "sur_devis"
+    },
+    "video": {
+      "price": "sur_devis",
+      "delivery": "24h-72h"
+    }
+  },
+  "express": {
+    "enabled": true,
+    "surcharge_percent": 30,
+    "delivery": "24h"
+  },
+  "revisions": {
+    "free_count": 2,
+    "extra_cost": 50000,
+    "extra_currency": "GNF"
+  },
+  "payment_methods": [
+    "Orange Money",
+    "MTN Money",
+    "Virement bancaire",
+    "PayPal"
+  ],
+  "social": {
+    "facebook_page": "N-dine K fans",
+    "github": "https://github.com/ndinekomara2442-cmd"
+  }
+}
